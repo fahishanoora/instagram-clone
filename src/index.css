@@ -1,0 +1,66 @@
+.w-20{
+    width:20%;
+}
+.w-30{
+    width:30%;
+}
+.insta-logo{
+    width:150px;
+}
+.bi{
+    margin-right: 10px;
+}
+.story{
+    height: 80px;
+    padding: 13px;
+}
+
+.dp {
+    height:25px;
+    margin-top: 5px;
+    margin-right: 5px;;
+}
+
+.postss {
+  width: 100%;
+}
+
+.postss img {
+  width: 100%;
+  max-width: 500px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.suggestion{
+    margin-top:30px;
+
+}
+.suggestion h5{
+    font-size: 18px;;
+}
+.suggestion .dp{
+    margin-top: 0px !important;
+}
+.border-gradient {
+  width: 55px;
+  height: 55px;
+  padding: 3px;   /* THIS creates the ring */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg,#ff00ff,#ff6600,#ffcc00);
+}
+
+.story-dp {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+.profile {
+    width:100px;
+    height:100px;
+}

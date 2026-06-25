@@ -1,0 +1,132 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "https://i.pravatar.cc/150?img=1"
+      },
+      "image": "https://picsum.photos/600/600?random=1",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot 😍"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "emma_smith",
+        "profile_pic": "https://i.pravatar.cc/150?img=2"
+      },
+      "image": "https://picsum.photos/600/600?random=2",
+      "caption": "Coffee and code ☕💻",
+      "likes": 340,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Best combo ever 🔥"
+        }
+      ],
+      "timestamp": "2025-02-12T09:15:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "alex_travels",
+        "profile_pic": "https://i.pravatar.cc/150?img=3"
+      },
+      "image": "https://picsum.photos/600/600?random=3",
+      "caption": "Travel more 🌍✨",
+      "likes": 560,
+      "comments": [],
+      "timestamp": "2025-02-13T18:45:00Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "101",
+      "username": "fahisha_noora",
+      "profile_pic": "https://i.pravatar.cc/150?img=9"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "201",
+      "username": "sarah_jones",
+      "profile_pic": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": "202",
+      "username": "mike_lee",
+      "profile_pic": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "203",
+      "username": "linda_kim",
+      "profile_pic": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+      "id": "204",
+      "username": "tom_harris",
+      "profile_pic": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+      "id": "205",
+      "username": "emma_wilson",
+      "profile_pic": "https://i.pravatar.cc/150?img=8"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "https://i.pravatar.cc/150?img=1"
+      },
+      "image": "https://picsum.photos/600/600?random=4"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "emma_smith",
+        "profile_pic": "https://i.pravatar.cc/150?img=2"
+      },
+      "image": "https://picsum.photos/600/600?random=5"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "alex_travels",
+        "profile_pic": "https://i.pravatar.cc/150?img=3"
+      },
+      "image": "https://picsum.photos/600/600?random=6"
+    }
+  ],
+  "followers": [
+    {
+      "id": "302",
+      "username": "scarlett_johansson",
+      "follower_pic": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": "303",
+      "username": "robert_downey",
+      "follower_pic": "https://i.pravatar.cc/150?img=12"
+    }
+  ]
+}
